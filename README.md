@@ -1,17 +1,28 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+Jan, 02 - 2023
 
-### Project Title
-Replace the Project Title
+### Project 3 - Course: Programming for Data Science with Python
 
 ### Description
-Describe what your project is about and what it does
+In this project, I practice with git and push the source code of project 2 (BikeShare) to git.
+
+Course: Programming for Data Science with Python - Udacity
+
+Save datasets in `datasets` folder
+
+Install requirements:
+```
+pip3 install -r requirements.txt
+```
+
+Run code:
+```
+python bikeshare.py
+```
 
 ### Files used
-Include the files used
+- `bikeshare.py` : main code
+- `requirements.txt`: libraries needed for project
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[Git documentation](https://git-scm.com/doc)
