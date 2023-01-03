@@ -2,9 +2,9 @@ import time
 import pandas as pd
 import numpy as np
  
-CITY_DATA = { 'chicago': 'datasets/chicago.csv',
-              'new york city': 'datasets/new_york_city.csv',
-              'washington': 'datasets/washington.csv' }
+CITY_DATA = { 'chicago': 'chicago.csv',
+              'new york city': 'new_york_city.csv',
+              'washington': 'washington.csv' }
 MONTH_DATA = {'all': 0, 'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6}
 DAY_DATA = {'monday': 0, 'tuesday': 1, 'wednesday': 2,'thursday': 3,  'friday': 4, 'saturday': 5, 'sunday': 6, 'all': 7}
  
