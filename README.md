@@ -7,12 +7,13 @@ Jan, 02 - 2023
 In this project, I practice with git and push the source code of project 2 (BikeShare) to git.
 
 Course: Programming for Data Science with Python - Udacity
+Project 3: Push your Github
 
 Save datasets in `datasets` folder
 
 Install requirements:
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Run code:
